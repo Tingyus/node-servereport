@@ -5,7 +5,7 @@
   "main": "index.js",
   "keywords": [
     "terminal",
-    "report",
+    "report"
   ],
   "homepage": "https://github.com/Tingyus/node-servereport",
   "bugs": "https://github.com/Tingyus/node-servereport/issues",
