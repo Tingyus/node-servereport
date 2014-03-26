@@ -41,10 +41,10 @@ description : Welcome to servereport
 #Config
 ```javascript
 {
-	"icon" : "=", // What char would you like to make the line.
-	"width" : "30", // How long is the line ? (maybe change a little if need).
+	"icon" : "=", // What char would you like to make the line?
+	"width" : "30", // How long is the line ? (maybe change a little if need)
 	"animate" : {
-		"enable" : true, //Would you want to enable animation effect ? (true or false).
+		"enable" : true, //Would you want to enable animation effect ? (true or false)
 		"time" : "10"  // Animation step time (ms).
 	},
 	"title" : "ERROR" // The report title.
