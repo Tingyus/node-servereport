@@ -1,0 +1,21 @@
+{
+  "name": "servereport",
+  "version": "0.0.1",
+  "description": "A node module that can report status on terminal",
+  "main": "index.js",
+  "keywords": [
+    "terminal",
+    "report",
+  ],
+  "homepage": "https://github.com/Tingyus/node-servereport",
+  "bugs": "https://github.com/Tingyus/node-servereport/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tingyus/node-servereport.git"
+  },
+  "authors": {
+    "name": "TingYuYan",
+    "email": "tingyus168@gmail.com"
+  },
+  "licenses": [{"type": "MIT"}]
+}
